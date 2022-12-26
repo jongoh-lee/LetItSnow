@@ -11,7 +11,6 @@ function letItSnow() {
   div.style.animationDelay = delay + "s";
   div.style.opacity = initialOpacity;
   div.style.animationDuration = duration + "s";
-
   body.appendChild(div);
 }
 
